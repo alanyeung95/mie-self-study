@@ -1,3 +1,20 @@
+# Forces I
+
+```
+W = mg
+```
+
+For all masses near the earth’s surface, the earth exerts a downward gravitational force
+which is known as the weight of the mass and has a magnitude given by
+
+# Friction
+
+F_f = μ \* F_N
+
+http://www.studyphysics.ca/newnotes/20/unit01_kinematicsdynamics/chp05_forces/lesson20.htm
+
+# Linear Momentum and Collisions
+
 ## Viscosity
 
 Viscosity = μ (mu)
