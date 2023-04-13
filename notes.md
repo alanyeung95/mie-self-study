@@ -9,9 +9,42 @@ which is known as the weight of the mass and has a magnitude given by
 
 # Friction
 
+```
 F_f = μ \* F_N
+```
+
+F_f = force due to friction
+
+F_N = normal force
 
 http://www.studyphysics.ca/newnotes/20/unit01_kinematicsdynamics/chp05_forces/lesson20.htm
+
+## force of kinetic friction
+
+```
+F_k = μkN = μmg cos  
+```
+
+<img src="https://slideplayer.com/slide/9386062/28/images/9/For+inclines+with+friction+find+the+acceleration+of+the+masses%3A.jpg" width="600">
+
+# Work, Kinetic Energy and Potential Energy
+
+## Work
+
+If an object moves through a displacement d while a constant force F is acting on it, the
+force does an amount of work equal to
+
+```
+W = F · d = Fd cos(0)
+```
+
+where  is the angle between d and F.
+
+the word done by fricition
+
+```
+W_fric = f_k * d *cos 18
+```
 
 # Linear Momentum and Collisions
 
